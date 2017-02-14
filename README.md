@@ -1,2 +1,1 @@
-# glowing-umbrella
-Projects from master's study at The University of Texas at Dallas
+#Projects from master's study at The University of Texas at Dallas
